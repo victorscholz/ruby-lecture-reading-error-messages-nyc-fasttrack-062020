@@ -1,3 +1,3 @@
-puts = "hello world"
+def "hello world"
 
 hello_world
